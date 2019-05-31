@@ -1,0 +1,25 @@
+{
+  "name": "graphql-bootcamp",
+  "version": "1.0.0",
+  "description": "GraphQL demo for learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin1245/graphql-bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin1245/graphql-bootcamp/issues"
+  },
+  "homepage": "https://github.com/sachin1245/graphql-bootcamp#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "graphql-yoga": "^1.16.7"
+  }
+}
